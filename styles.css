@@ -14,6 +14,10 @@ body {
     --icon-color: #6a737d;
     --border-color: #ff9a0045;
     --text-decoration-color: #ff9a00;
+
+
+    background-color: #f6c1f7;
+
 }
 
 .container {
@@ -96,7 +100,9 @@ body {
 
   .contact-info__block--center {
       justify-content: center;
+
       padding-left: 50px;
+
   }
 
   .contact-info__item {
@@ -133,6 +139,7 @@ body {
       object-fit: cover;
       border: 3px solid;
       border-color: var(--text-decoration-color);
+
 
   }
 
@@ -205,6 +212,10 @@ body {
 .experiences__company-project {
     margin-left: 15px;
     margin-bottom: 25px;
+
+
+    margin-top: 20px;
+
 }
 
 .experiences__company-project-role {
@@ -250,6 +261,13 @@ body {
     color: var(--primary-text-color);
     text-align: left;
     margin-bottom: 10px;
+
+
+    font-family: 'Cormorant Infant', serif;
+    background-color: #f7d7f7;
+    box-shadow: inset -20px -20px 20px 0px #f6c1f7;
+
+
 }
 
 .additional-info__education-university-name {
@@ -261,9 +279,16 @@ body {
 }
 
 .additional-info__languages-header {
-    color: var(--secondary-text-color);
+
+
+    color: var(--primary-text-color);
     text-align: left;
     margin-bottom: 20px;
+    font-family: 'Cormorant Infant', serif;
+    background-color: #f7d7f7;
+    box-shadow: inset -20px -20px 20px 0px #f6c1f7;
+
+
 }
 
 .additional-info__languages-item {
