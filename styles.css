@@ -14,6 +14,10 @@ body {
     --icon-color: #6a737d;
     --border-color: #ff9a0045;
     --text-decoration-color: #ff9a00;
+<<<<<<< HEAD
+=======
+    background-color: #f6c1f7;
+>>>>>>> feature/body
 }
 
 .container {
@@ -205,6 +209,10 @@ body {
 .experiences__company-project {
     margin-left: 15px;
     margin-bottom: 25px;
+<<<<<<< HEAD
+=======
+    margin-top: 20px;
+>>>>>>> feature/body
 }
 
 .experiences__company-project-role {
@@ -250,6 +258,12 @@ body {
     color: var(--primary-text-color);
     text-align: left;
     margin-bottom: 10px;
+<<<<<<< HEAD
+=======
+    font-family: 'Cormorant Infant', serif;
+    background-color: #f7d7f7;
+    box-shadow: inset -20px -20px 20px 0px #f6c1f7;
+>>>>>>> feature/body
 }
 
 .additional-info__education-university-name {
@@ -261,9 +275,18 @@ body {
 }
 
 .additional-info__languages-header {
+<<<<<<< HEAD
     color: var(--secondary-text-color);
     text-align: left;
     margin-bottom: 20px;
+=======
+    color: var(--primary-text-color);
+    text-align: left;
+    margin-bottom: 20px;
+    font-family: 'Cormorant Infant', serif;
+    background-color: #f7d7f7;
+    box-shadow: inset -20px -20px 20px 0px #f6c1f7;
+>>>>>>> feature/body
 }
 
 .additional-info__languages-item {
